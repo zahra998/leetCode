@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\bin\Debug\net6.0\leetCodeQ14.exe
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\bin\Debug\net6.0\leetCodeQ14.deps.json
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\bin\Debug\net6.0\leetCodeQ14.runtimeconfig.json
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\bin\Debug\net6.0\leetCodeQ14.dll
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\bin\Debug\net6.0\leetCodeQ14.pdb
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.AssemblyInfo.cs
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.dll
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\refint\leetCodeQ14.dll
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.pdb
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\leetCodeQ14.genruntimeconfig.cache
+C:\Users\Training\Desktop\wd0009_VS\leetCodeQ14\leetCodeQ14\obj\Debug\net6.0\ref\leetCodeQ14.dll

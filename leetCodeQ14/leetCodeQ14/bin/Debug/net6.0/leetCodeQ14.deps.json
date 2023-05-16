@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "leetCodeQ14/1.0.0": {
+        "runtime": {
+          "leetCodeQ14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leetCodeQ14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
